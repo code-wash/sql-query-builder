@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWash.SqlQueryBuilder", "CodeWash.SqlQueryBuilder\CodeWash.SqlQueryBuilder.csproj", "{BCB5A6CE-8012-455F-99DF-A00F44B46D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWash.SqlQueryBuilder.Tests", "CodeWash.SqlQueryBuilder.Tests\CodeWash.SqlQueryBuilder.Tests.csproj", "{77308DAB-EEB8-4BF2-BFA6-D2C843A07C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB5A6CE-8012-455F-99DF-A00F44B46D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB5A6CE-8012-455F-99DF-A00F44B46D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB5A6CE-8012-455F-99DF-A00F44B46D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB5A6CE-8012-455F-99DF-A00F44B46D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77308DAB-EEB8-4BF2-BFA6-D2C843A07C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77308DAB-EEB8-4BF2-BFA6-D2C843A07C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77308DAB-EEB8-4BF2-BFA6-D2C843A07C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77308DAB-EEB8-4BF2-BFA6-D2C843A07C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {519561C6-5268-4C80-84D1-BE8CF8A17B0C}
+	EndGlobalSection
+EndGlobal
